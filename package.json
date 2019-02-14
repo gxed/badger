@@ -48,6 +48,12 @@
       "hash": "QmRFFHk2jw9tgjxv12bCuuTnSbVXxEvYQkuNCLMEv9eUwP",
       "name": "go-farm",
       "version": "1.0.0"
+    },
+    {
+      "author": "magik6k",
+      "hash": "QmU68jKwtkNEFjkTbBKDwZEUisqTXLLHgPf2JnZh3DuhhB",
+      "name": "go-humanize",
+      "version": "1.0.0"
     }
   ],
   "gxVersion": "0.10.0",
