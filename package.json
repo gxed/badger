@@ -54,6 +54,12 @@
       "hash": "QmddjPSGZb3ieihSseFeCfVRpZzcqczPNsD2DvarSwnjJB",
       "name": "gogo-protobuf",
       "version": "1.2.1"
+    },
+    {
+      "author": "magik6k",
+      "hash": "QmXj63M2w2Pq7mnBpcrs7Va8prmfhvfMUNqVhJ9TgjiMbT",
+      "name": "cobra",
+      "version": "0.0.1"
     }
   ],
   "gxVersion": "0.10.0",
