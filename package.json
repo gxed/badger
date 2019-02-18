@@ -48,8 +48,8 @@
       "hash": "QmU68jKwtkNEFjkTbBKDwZEUisqTXLLHgPf2JnZh3DuhhB",
       "name": "go-humanize",
       "version": "1.0.0"
-	},
-	{
+    },
+    {
       "author": "GoGo",
       "hash": "QmddjPSGZb3ieihSseFeCfVRpZzcqczPNsD2DvarSwnjJB",
       "name": "gogo-protobuf",
@@ -61,6 +61,6 @@
   "license": "Apache 2.0",
   "name": "badger",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "2.11.1"
+  "version": "2.11.2"
 }
 
