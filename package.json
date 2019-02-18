@@ -38,12 +38,6 @@
       "version": "0.2.0"
     },
     {
-      "author": "why",
-      "hash": "QmZHU2gx42NPTYXzw6pJkuX6xCE7bKECp6e8QcPdoLx8sx",
-      "name": "protobuf",
-      "version": "3.6.0"
-    },
-    {
       "author": "magik6k",
       "hash": "QmRFFHk2jw9tgjxv12bCuuTnSbVXxEvYQkuNCLMEv9eUwP",
       "name": "go-farm",
@@ -54,6 +48,12 @@
       "hash": "QmU68jKwtkNEFjkTbBKDwZEUisqTXLLHgPf2JnZh3DuhhB",
       "name": "go-humanize",
       "version": "1.0.0"
+	},
+	{
+      "author": "GoGo",
+      "hash": "QmddjPSGZb3ieihSseFeCfVRpZzcqczPNsD2DvarSwnjJB",
+      "name": "gogo-protobuf",
+      "version": "1.2.1"
     }
   ],
   "gxVersion": "0.10.0",
@@ -61,6 +61,6 @@
   "license": "Apache 2.0",
   "name": "badger",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "2.11.0"
+  "version": "2.11.1"
 }
 
